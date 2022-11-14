@@ -1,3 +1,5 @@
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-376/)
+[![Pytorch 1.3](https://img.shields.io/badge/pytorch-1.3.1-blue.svg)](https://pytorch.org/)
 # HMC-for-Gaussian-Mixture-Model-parameters
 GMM descibes a set of points in the 2D plane. Implemented a posterior sampler using the Hamiltion Monte Carlo (HMC) algorithm.
 
